@@ -10,4 +10,4 @@ Users can login using username and password stored in MySQL database encrypted u
 1) Java - All Java Configuration & development
 2) Spring 5: Spring Security
 3) MySQL- For database server
-4) JSP & HTML - Frontend
+4) JSP, HTML & Bootstrap - Frontend
